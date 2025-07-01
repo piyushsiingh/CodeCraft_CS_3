@@ -26,4 +26,4 @@ python password_strength_checker.py
 🔗 [LinkedIn](https://www.linkedin.com/in/piyush-singh-0b276332a)
 
 ## 📄 License
-MIT License
+  LICENSE
