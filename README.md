@@ -24,3 +24,6 @@ python password_strength_checker.py
 **Piyush Singh**  
 📧 piyush.siingh2005@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/piyush-singh-0b276332a)
+
+## License
+This project is licensed under the MIT License.
